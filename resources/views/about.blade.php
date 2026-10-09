@@ -8,10 +8,9 @@
 </head>
 <body class="bg-light">
 
-    <!-- Navbar -->
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
         <div class="container">
-            <a class="navbar-brand fw-bold" href="/">ITE311 App</a>
+            <a class="navbar-brand fw-bold" href="/">MY APP</a>
             <div class="navbar-nav ms-auto">
                 <a class="nav-link" href="/">Home</a>
                 <a class="nav-link active" href="/about">About</a>
@@ -19,8 +18,6 @@
             </div>
         </div>
     </nav>
-
-    <!-- Content -->
     <div class="container mt-5">
         <div class="p-5 mb-4 bg-white rounded-3 shadow-sm border">
             <h1 class="display-5 fw-bold text-success">About Us</h1>
